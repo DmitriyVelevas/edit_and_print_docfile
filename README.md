@@ -5,5 +5,5 @@
 3) Replace template.doc with your document, add bookmarks in your documet via Microsof Word
 4) Execute print.bat:
 '''
-print.bat bookmark1 'some text 1' bookmark2 'some text2' ... bookmark_N 'some text N'
+print.bat bookmark1 some_text_1 bookmark2 some_text_2 ... bookmark_N some_text_N
 '''
