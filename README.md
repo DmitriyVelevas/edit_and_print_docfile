@@ -4,6 +4,6 @@
 2) Edit variables PATH_TO_FOLDER and POWERSHELL in print.bat
 3) Replace template.doc with your document, add bookmarks in your documet via Microsof Word
 4) Execute print.bat:
-'''
+"""
 print.bat bookmark1 some_text_1 bookmark2 some_text_2 ... bookmark_N some_text_N
-'''
+"""
